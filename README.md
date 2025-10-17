@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ipawd.png" alt="iPawd Banner" width="1000" height="500"/>
+<img src="assets/ipawd2.png" alt="iPawd Banner" width="1000"/>
 
 # iPawd  
 A modern music player.
