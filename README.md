@@ -1,8 +1,11 @@
-![iPawd Banner](assets/iPawd.png)
-<p align="center">
-<h1>iPawd</h1>
-A modern music player.
-</p>
+<div align="center">
 
-> [!WARNING]
-> This project is a work in progress! Keep in touch with how the project is going in ``JOURNAL.md``
+<img src="assets/iPawd.png" alt="iPawd Banner" width="600"/>
+
+# iPawd  
+A modern music player.
+
+</div>
+
+> [!WARNING]  
+> This project is a work in progress! Keep in touch with how the project is going in `JOURNAL.md`.
