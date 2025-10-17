@@ -1,3 +1,3 @@
 # Concepts
 
-![main screen](main UI.png)
+![main screen](mainUI.png)
