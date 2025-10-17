@@ -1,6 +1,6 @@
 ---
 title: "iPawd"
-author: "Lapis"
+author: "Lapis, Xenon, LiquidSquid"
 description: "A modern music player."
 created_at: "2025-10-16"
 total_time_spent: "~4-5hrs"
