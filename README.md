@@ -3,7 +3,7 @@
 <img src="assets/ipawd2.png" alt="iPawd Banner" width="1000"/>
 
 # iPawd  
-A modern music player.
+A physical modern music player similar to the iPod.
 
 </div>
 
